@@ -1,0 +1,20 @@
+@media (max-width:700px) {
+  header .container nav{
+    display: none;
+  }
+
+  header .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  header .container .logo {
+    margin-top: 10px;
+  }
+}
+
+@media (min-width:1000px) {
+  .sinopse {
+    width: 50%;
+  }
+}
