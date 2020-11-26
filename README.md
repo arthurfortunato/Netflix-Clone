@@ -1,4 +1,4 @@
-## 💻 Projeto Landing Page Instagram
+## 💻 Projeto Landing Page Netflix
 
 Projeto desenvolvido durante o **[Digital Innovation](https://digitalinnovation.one/)**.
 
